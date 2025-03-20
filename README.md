@@ -1,16 +1,19 @@
-## Hi there 👋
+# ✨🏗️ Beyzanur Kaya'nın Mimarlık Dünyası
 
-<!--
-**beyzanuurkaya/beyzanuurkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Merhaba, Ben Beyzanur Kaya! 👋
 
-Here are some ideas to get you started:
+🎨 Hayal gücüyle tasarlayan, çizgilerle hayat veren bir **Mimarım!**
+Burada projelerimi, ilham kaynaklarımı ve yaratıcı süreçlerimi paylaşarak mimari dünyaya katkıda bulunuyorum. Eğer **yenilikçi tasarımlar, 3D modelleme, sürdürülebilir mimari** ilgi alanınsa, doğru yerdesin! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Hakkımda 
+🌆 **Şehirleri tasarlayan bir hayalperest**  
+📐 **AutoCAD, Revit, SketchUp, Rhino ustası**  
+🎨 **Görselleştirme: Lumion, V-Ray, Photoshop**  
+💡 **Sürdürülebilir ve yenilikçi tasarımlar**  
+
+---
+ 
+
+🔥 **Takipte kal ve birlikte harika projeler üretelim!** 🔥
